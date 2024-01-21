@@ -6,9 +6,6 @@
 ![Static Badge](https://img.shields.io/badge/autoregressive-%23DB7093%09%09%09%09)
 
 
-
-
-
 Welcome to the "Awesome Text-to-Image Papers" repository! This curated list contains a collection of influential and cutting-edge research papers related to the exciting field of text-to-image synthesis. Whether you are a researcher, developer, or just curious about the latest advancements in generating images from textual descriptions, this repository is your go-to resource for exploring key papers in the field.
 
 ## Models
@@ -30,17 +27,15 @@ Welcome to the "Awesome Text-to-Image Papers" repository! This curated list cont
 #### AutoRegressive Models
 
 * **Parti**: Scaling Autoregressive Models for Content-Rich Text-to-Image Generation: [Paper](https://arxiv.org/abs/2206.10789), [Code](https://github.com/google-research/parti)
-
 * **DALL-E**: Zero-Shot Text-to-Image Generation: [Paper](https://arxiv.org/abs/2102.12092), [Code](https://github.com/lucidrains/DALLE-pytorch)
-
 * **Make-A-Scene**: Scene-Based Text-to-Image Generation with Human Priors: [Paper](https://arxiv.org/abs/2203.13131), [Code](https://github.com/CasualGANPapers/Make-A-Scene)
-
 * **NUWA-Infinity**: Autoregressive over Autoregressive Generation for Infinite Visual Synthesis: [Paper](https://arxiv.org/abs/2207.09814), [Code](https://github.com/microsoft/nuwa)
-
-
+* **Muse**: Text-To-Image Generation via Masked Generative Transformers: [Paper](https://arxiv.org/abs/2301.00704), [Code](https://github.com/lucidrains/muse-maskgit-pytorch)
 #### Variational Autoencoder
 
-
+* **VAE-GAN**: VariationalAutoencoderGenerativeAdversarial NetworkforSyntheticDataGenerationinSmart Home: [Paper](https://arxiv.org/pdf/2201.07387.pdf)
+* **VQ-VAE-2**: Generating Diverse High-Fidelity Images with VQ-VAE-2: [Paper](https://arxiv.org/abs/1906.00446v1), [Code](https://github.com/deepmind/sonnet)
+* **CVAE-GAN**: Fine-GrainedImageGenerationthroughAsymmetricTraining: [Paper](https://arxiv.org/pdf/1703.10155.pdf)
 
 
 #### Generative Adverserial Models
